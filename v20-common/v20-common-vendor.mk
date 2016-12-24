@@ -232,6 +232,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libjpegdmahw.so:system/vendor/lib/libjpegdmahw.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
+	vendor/lge/v20-common/proprietary/vendor/lib/liblgae_main.so:system/vendor/lib/liblgae_main.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_imx219.so:system/vendor/lib/liblg_ae_parameter_4k_preview_imx219.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_imx234.so:system/vendor/lib/liblg_ae_parameter_4k_preview_imx234.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_imx298.so:system/vendor/lib/liblg_ae_parameter_4k_preview_imx298.so \
@@ -268,6 +269,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_imx219.so:system/vendor/lib/liblg_ae_parameter_zsl_video_imx219.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_imx234.so:system/vendor/lib/liblg_ae_parameter_zsl_video_imx234.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_imx298.so:system/vendor/lib/liblg_ae_parameter_zsl_video_imx298.so \
+	vendor/lge/v20-common/proprietary/vendor/lib/liblgawb_main.so:system/vendor/lib/liblgawb_main.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_4k_preview.so:system/vendor/lib/liblg_awb_parameter_imx219_4k_preview.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_4k_video.so:system/vendor/lib/liblg_awb_parameter_imx219_4k_video.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_default_preview.so:system/vendor/lib/liblg_awb_parameter_imx219_default_preview.so \
