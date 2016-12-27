@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter v20 h918 h910 ls997,$(TARGET_DEVICE)),)
+ifneq ($(filter v20 h918 h910 ls997 us996,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := qcrilmsgtunnel
