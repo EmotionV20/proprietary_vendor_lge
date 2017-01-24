@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/bin/fpc_early_loader:system/bin/fpc_early_loader \
     vendor/lge/v20-common/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/lge/v20-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/lge/v20-common/proprietary/bin/rild:system/bin/rild \
+#    vendor/lge/v20-common/proprietary/bin/rild:system/bin/rild \
     vendor/lge/v20-common/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
     vendor/lge/v20-common/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
     vendor/lge/v20-common/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
@@ -64,8 +64,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/lib64/libfpfactory_jni.so:system/lib64/libfpfactory_jni.so \
     vendor/lge/v20-common/proprietary/lib64/libfpfactory.so:system/lib64/libfpfactory.so \
     vendor/lge/v20-common/proprietary/lib64/liblgkm.so:system/lib64/liblgkm.so \
-    vendor/lge/v20-common/proprietary/lib64/libril.so:system/lib64/libril.so \
-    vendor/lge/v20-common/proprietary/lib64/librilutils.so:system/lib64/librilutils.so \
+#    vendor/lge/v20-common/proprietary/lib64/libril.so:system/lib64/libril.so \
+#    vendor/lge/v20-common/proprietary/lib64/librilutils.so:system/lib64/librilutils.so \
     vendor/lge/v20-common/proprietary/lib64/libuicc.so:system/lib64/libuicc.so \
     vendor/lge/v20-common/proprietary/lib64/libvss_bsp_qcci.so:system/lib64/libvss_bsp_qcci.so \
     vendor/lge/v20-common/proprietary/lib64/libvss_common_core.so:system/lib64/libvss_common_core.so \
